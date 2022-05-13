@@ -4,8 +4,8 @@
 
 ## Usage
 
-1. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-2. Download modified `wstunnel` [here](https://github.com/maple3142/wstunnel/releases)
+1. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ViniciusFXavier/heroku-proxy-local)
+2. Download modified `wstunnel` [here](https://github.com/maple3142/ViniciusFXavier/releases)
 3. Extract `wstunnel` binary from tarball
 4. `./wstunnel cli -tunnel ws://$YOUR_APP_NAME.herokuapp.com -server http://localhost:$PORT`
 
