@@ -1,1 +1,1 @@
-web: ./wstunnel srv -port $PORT
+web: wstunnel -s $PORT
